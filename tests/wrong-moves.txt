@@ -1,0 +1,10 @@
+move a2a5
+move b2b1
+move b7b5
+move a2b3
+move d1d4
+move b2c4
+move f1c4
+move h1h4
+move e1e3
+move e8f8

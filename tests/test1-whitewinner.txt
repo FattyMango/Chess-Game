@@ -1,0 +1,10 @@
+move d2d4
+move f7f5
+move c1g5
+move h7h6
+move g5h4
+move g7g5
+move e2e4
+move g5h4
+move d1h5
+
